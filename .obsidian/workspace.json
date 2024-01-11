@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Index.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,6 +150,10 @@
   "lastOpenFiles": [
     "SQL/SQL 개념 정리.md",
     "SQL/Index.md",
+    "README.md",
+    "SQL/SQL-개념-정리.md",
+    "SQL/SQL.md",
+    "obsidian 1.md",
     "Spring/스프링 데이터 JPA/4. 쿼리 메소드 기능.md",
     "Spring/스프링 데이터 JPA/3. 공통 인페이스 기능.md",
     "Spring boot.md",
@@ -190,10 +194,6 @@
     "Spring/JPA/3. 데이터 접근 기술 - 테스트.md",
     "Spring/JPA/1. 데이터 접근 기술.md",
     "Spring/JAVA 문법 정리.md",
-    "Spring/DIP.md",
-    "Spring/컴포넌트 스캔.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
     "templates/Untitled.canvas"
   ]
 }
