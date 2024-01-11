@@ -8,7 +8,7 @@
 
 ### SQL
 - [SQL 개념 정리](SQL/SQL%20개념%20정리.md)
-- [Index](SQL/index.md)
+- [Index](SQL/Index.md)
 
 ### Spring(inflean - 김영한 강의 요약)
 - 스프링 데이터 JPA
