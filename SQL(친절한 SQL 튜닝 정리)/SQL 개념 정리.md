@@ -26,6 +26,9 @@ select * from customer where login_id = 'e';
 	- 만약 100만명이 동시에 로그인을 시도할 경우 100만개의 프로시저가 필요함 -> CPU 과부하 원인
 	- 바인드 변수를 사용함으로써 위 문제를 해결 할 수 있음
 		ex: "select * from customer where login_id = ?"
+
+> MySQL에서는 8.0부터 제거됨(query caching). 오버헤드 문제(잘 이해 못함..)와 각종 ORM에서 지원하는 캐싱, 별도 캐싱을 위한 DB(redis 등) 기술의 발달로 바인딩 쿼리를 이용한 의도적 라이브러리 캐싱을 지양하는 추세인듯.
+
 ---
 ### I/O 매커니즘
 ![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240111145932.png)Users/navill/Documents/Obsidian Vault/Pasted image 20240111145932.png
