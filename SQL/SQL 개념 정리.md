@@ -85,3 +85,10 @@ select * from customer where login_id = 'e';
 
 - Clustering Factor(CF): 특정 컬럼을 기준으로 같은값을 갖는 데이터가 서로 모여있는 정도
 	- CF가 높은 컬럼에 생성한 인덱스는 높은 효율을 보임: 첫 번째 레코드를 읽은 후 다음 인덱스 레코드를 읽었는데 같은 블록을 가리킬 경우 래치 획득, 해시 체인 스캔 과정을 생략 -> 테이블 블록 읽기 => 블록 I/O 과정이 생략되는 효과
+
+SQL trace 용어
+- cr(Consistent Read): 총 읽은 블럭 수(버퍼 캐시에서 읽은 수)
+	- disk상에서 읽은 블럭 또한 버퍼 캐시에 올려두고 읽기 때문에 disk + cache에서 읽은 수라고 해석 가능
+- pr(Physical Read): 디스크에서 읽은 블럭 수
+- pw(Physical write): 디스크에 저장한 블럭 수
+- card: cardinality
