@@ -35,3 +35,9 @@ and sal >= 2000
 **Include Index**
 - 테이블 랜덤 엑세스를 줄이기 위한 용도
 - DBMS에 따라 지원하지 않을 수 있음
+
+
+**Clustered Index(Index-Organized Table)**
+- 일반 테이블(heap organization table)과 달리 정렬 순서를 유지하도록 구성된 테이블
+	- 인위적으로 CF를 좋게 만드는 방법
+	- 랜덤 엑세스가 아닌 시퀀셜 방식으로 데이터 엑세스
