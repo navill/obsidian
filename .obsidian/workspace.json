@@ -148,10 +148,12 @@
   },
   "active": "4b4050f0bddfaacb",
   "lastOpenFiles": [
+    "SQL/Index.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/10.  객체지향 쿼리 언어.md",
+    "SQL/SQL 개념 정리.md",
     "change_image.sh",
     "SQL/Users/navill/Documents/Obsidian Vault/Pasted image 20240111193239.png",
     "README.md",
-    "SQL/Index.md",
     "Spring/9. 빈 스코프.md",
     "Spring/8. 빈 생명주기 콜백.md",
     "Spring/7. 의존관계 자동주입.md",
@@ -174,7 +176,6 @@
     "Spring/QueryDSL/3. 기본 문법.md",
     "Spring/MVC 프레임워크 이해/스프링 MVC 시작.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/10.  객체지향 쿼리 언어.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/7. 고급 매핑.md",
     "Spring/스프링부트와 JPA/1. API 개발 기본.md",
     "Spring/스프링 데이터 JPA/3. 공통 인페이스 기능.md",
@@ -193,7 +194,6 @@
     "Spring/Users/navill",
     "Spring/Users",
     "Spring/QueryDSL",
-    "Spring/MVC 프레임워크 이해",
     "templates/Untitled.canvas"
   ]
 }
