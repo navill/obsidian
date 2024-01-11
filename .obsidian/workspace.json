@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b4050f0bddfaacb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SQL(친절한 SQL 튜닝 정리)/Users/navill/Documents/Obsidian Vault/Pasted image 20240111145932.png"
-              }
-            }
-          },
-          {
             "id": "8740ed403c7017c4",
             "type": "leaf",
             "state": {
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,8 +148,9 @@
   },
   "active": "8740ed403c7017c4",
   "lastOpenFiles": [
-    "SQL(친절한 SQL 튜닝 정리)/SQL 개념 정리.md",
     "SQL(친절한 SQL 튜닝 정리)/SQL 용어 정리.md",
+    "SQL(친절한 SQL 튜닝 정리)/Index.md",
+    "SQL(친절한 SQL 튜닝 정리)/SQL 개념 정리.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
     "Spring/스프링 외부 설정.md",
     "Spring/관심사 분리.md",
@@ -204,7 +194,6 @@
     "Spring/스프링부트와 JPA/1. API 개발 기본.md",
     "Spring/스프링부트와 JPA",
     "Spring/스프링 웹 개발 기초.md",
-    "Spring/스프링 데이터 JPA/7. 나머지 기능들.md",
     "templates/Untitled.canvas"
   ]
 }
