@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL 개념 정리.md",
+                "file": "SQL/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL 개념 정리.md",
+                "file": "SQL/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL 개념 정리.md",
+                "file": "SQL/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL 개념 정리.md"
+                "file": "SQL/Index.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "4b4050f0bddfaacb",
   "lastOpenFiles": [
-    "SQL/Index.md",
     "SQL/SQL 개념 정리.md",
+    "SQL/Index.md",
     "README.md",
     "Spring/JPA/6.데이터 접근 기술 - 스프링 데이터 JPA.md",
     "Spring/Spring 회원가입.md",
