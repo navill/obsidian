@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL 개념 정리.md",
+                "file": "SQL/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL 개념 정리.md",
+                "file": "SQL/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL 개념 정리.md",
+                "file": "SQL/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL 개념 정리.md"
+                "file": "SQL/Index.md"
               }
             }
           }
@@ -148,52 +148,52 @@
   },
   "active": "4481469c1af644df",
   "lastOpenFiles": [
+    "SQL/SQL 개념 정리.md",
     "SQL/Index.md",
-    "spring/스프링 데이터 JPA/4. 쿼리 메소드 기능.md",
-    "spring/스프링 데이터 JPA/3. 공통 인페이스 기능.md",
+    "Spring/스프링 데이터 JPA/4. 쿼리 메소드 기능.md",
+    "Spring/스프링 데이터 JPA/3. 공통 인페이스 기능.md",
     "Spring boot.md",
-    "spring/Users 1/navill/Documents/Obsidian Vault/Pasted image 20231205191048.png",
-    "spring/Users 1/navill/Documents/Obsidian Vault/Pasted image 20231205190313.png",
-    "spring/Users 1/navill/Documents/Obsidian Vault",
-    "spring/Users 1/navill/Documents",
-    "spring/Users 1/navill",
-    "spring/Users 1",
-    "spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240111170634.png",
-    "spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240111170321.png",
-    "spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240111170207.png",
-    "spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240111170157.png",
-    "spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240111165906.png",
-    "spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240111165806.png",
-    "spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240102215222.png",
-    "spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240102214613.png",
-    "spring/Users/navill/Documents/Obsidian Vault",
-    "spring/Users/navill/Documents",
-    "spring/Users/navill",
-    "spring/Users",
-    "spring/Spring boot.md",
-    "spring/Spring 회원가입.md",
-    "spring/Singleton.md",
-    "spring/QueryDSL/3. 기본 문법.md",
-    "spring/QueryDSL/1. 설정.md",
-    "spring/QueryDSL",
-    "spring/MVC와 템플릿 엔진.md",
-    "spring/MVC 프레임워크 이해/스프링 MVC 시작.md",
-    "spring/MVC 프레임워크 이해",
-    "spring/JPA/커넥션풀과 데이터소스.md",
-    "spring/JPA/Spring Test.md",
-    "spring/JPA/Exceptions.md",
-    "spring/JPA/8. 스프링 트랜잭션.md",
-    "spring/JPA/7. 데이터 접근 기술 - QueryDSL.md",
-    "spring/JPA/6.데이터 접근 기술 - 스프링 데이터 JPA.md",
-    "spring/JPA/5. 데이터 접근 기술 - JPA.md",
-    "spring/JPA/3. 데이터 접근 기술 - 테스트.md",
-    "spring/JPA/1. 데이터 접근 기술.md",
-    "spring/JAVA 문법 정리.md",
-    "spring/DIP.md",
-    "spring/컴포넌트 스캔.md",
-    "spring/자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
-    "spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
-    "spring/자바 ORM 표준 JPA 프로그래밍/7. 고급 매핑.md",
+    "Spring/Users 1/navill/Documents/Obsidian Vault/Pasted image 20231205191048.png",
+    "Spring/Users 1/navill/Documents/Obsidian Vault/Pasted image 20231205190313.png",
+    "Spring/Users 1/navill/Documents/Obsidian Vault",
+    "Spring/Users 1/navill/Documents",
+    "Spring/Users 1/navill",
+    "Spring/Users 1",
+    "Spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240111170634.png",
+    "Spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240111170321.png",
+    "Spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240111170207.png",
+    "Spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240111170157.png",
+    "Spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240111165906.png",
+    "Spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240111165806.png",
+    "Spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240102215222.png",
+    "Spring/Users/navill/Documents/Obsidian Vault/Pasted image 20240102214613.png",
+    "Spring/Users/navill/Documents/Obsidian Vault",
+    "Spring/Users/navill/Documents",
+    "Spring/Users/navill",
+    "Spring/Users",
+    "Spring/Spring boot.md",
+    "Spring/Spring 회원가입.md",
+    "Spring/Singleton.md",
+    "Spring/QueryDSL/3. 기본 문법.md",
+    "Spring/QueryDSL/1. 설정.md",
+    "Spring/QueryDSL",
+    "Spring/MVC와 템플릿 엔진.md",
+    "Spring/MVC 프레임워크 이해/스프링 MVC 시작.md",
+    "Spring/MVC 프레임워크 이해",
+    "Spring/JPA/커넥션풀과 데이터소스.md",
+    "Spring/JPA/Spring Test.md",
+    "Spring/JPA/Exceptions.md",
+    "Spring/JPA/8. 스프링 트랜잭션.md",
+    "Spring/JPA/7. 데이터 접근 기술 - QueryDSL.md",
+    "Spring/JPA/6.데이터 접근 기술 - 스프링 데이터 JPA.md",
+    "Spring/JPA/5. 데이터 접근 기술 - JPA.md",
+    "Spring/JPA/3. 데이터 접근 기술 - 테스트.md",
+    "Spring/JPA/1. 데이터 접근 기술.md",
+    "Spring/JAVA 문법 정리.md",
+    "Spring/DIP.md",
+    "Spring/컴포넌트 스캔.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
     "templates/Untitled.canvas"
   ]
 }
