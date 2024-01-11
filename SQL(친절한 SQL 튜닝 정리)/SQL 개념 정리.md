@@ -34,7 +34,8 @@ select * from customer where login_id = 'e';
 - SQL 튜닝은 I/O 작업을 줄이는 작업
 ---
 ### 데이터베이스 저장 구조
-![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240111150415.png)- 테이블 스페이스: 논리적 데이터베이스 객체(테이블, 인덱스 등)를 저장하는 물리 공간
+![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240111150415.png)
+- 테이블 스페이스: 논리적 데이터베이스 객체(테이블, 인덱스 등)를 저장하는 물리 공간
 	- 테이블 스페이스는 하나 이상의 데이터 파일로 구성됨
 - 세그먼트: 논리적 데이터베이스 객체(테이블, 인덱스)를 위한 저장 영역
 	- 테이블이나 인덱스는 하나 이상의 세그먼트로 구성
