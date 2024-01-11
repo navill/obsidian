@@ -5,7 +5,7 @@
 ### Python
 - 
 
-### SQL
+### SQL(친절한 SQL 튜닝 정리)
 - [SQL 용어 정리](SQL(친절한%20SQL%20튜닝%20정리)/SQL%20용어%20정리.md)
 - [SQL 개념 정리](SQL(친절한%20SQL%20튜닝%20정리)/SQL%20개념%20정리.md)
 - [Index](SQL(친절한%20SQL%20튜닝%20정리)/Index.md)
