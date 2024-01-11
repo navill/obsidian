@@ -7,8 +7,7 @@ ctrl + t: 리팩토리 단축키
 
 테스트 생성 단축키
 - 클래스 내에 커서를 올리고 cmd + shift + t
-  ![[Users/navill/Documents/Obsidian Vault/Pasted image 20231112151643.png]]
-
+![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020231112151643.png)
 
 
 

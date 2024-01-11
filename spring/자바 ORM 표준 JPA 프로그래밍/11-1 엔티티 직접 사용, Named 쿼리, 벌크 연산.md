@@ -10,8 +10,7 @@ select count(m.id) as cnt from Member m
 
 ---
 # Named Query
-![[Users/navill/Documents/Obsidian Vault/Pasted image 20231221203642.png]]
-
+![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020231221203642.png)
 - 동적 쿼리 불가
 - 어노테이션, XML 정의가능
 - 어플리케이션 로딩 시점에 초기화 후 재사용

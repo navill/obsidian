@@ -1,6 +1,5 @@
 
-![[Users/navill/Documents/Obsidian Vault/Pasted image 20231112120238.png]]
-
+![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020231112120238.png)
 Gradle 기준
 *스프링부터 라이브러리*
 - spring-boot-starter-web
