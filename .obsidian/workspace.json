@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "cf49fff96f11a80c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed4486483b3250dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4481469c1af644df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QueryDSL/3. 기본 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88f6ca3c52aa7879",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd589f0a3dae9288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa1e15590cd5dde4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f753ba2e67e3b584",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#스프링부트자동리소스등록",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fa860a465636e9c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cdd2771838fc8117",
+    "type": "split",
+    "children": [
+      {
+        "id": "c182634e9801a722",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "213f48f73639ce2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QueryDSL/3. 기본 문법.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c746771bdb6b9ef8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QueryDSL/3. 기본 문법.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8851fe3ba8df00fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "680a7d54fe811fc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QueryDSL/3. 기본 문법.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aa1e15590cd5dde4",
+  "lastOpenFiles": [
+    "SQL/Index.md",
+    "SQL/SQL 개념 정리.md",
+    "SQL/Users/navill/Documents/Obsidian Vault/Pasted image 20240111150415.png",
+    "SQL/Users/navill/Documents/Obsidian Vault/Pasted image 20240111145932.png",
+    "SQL/Users/navill/Documents/Obsidian Vault",
+    "SQL/Users/navill/Documents",
+    "SQL/Users/navill",
+    "SQL/Users",
+    "스프링 데이터 JPA/6. 스프링 데이터 JPA 구현체 분석.md",
+    "SQL",
+    "스프링 데이터 JPA/7. 나머지 기능들.md",
+    "자바 ORM 표준 JPA 프로그래밍/4. 엔티티 매핑.md",
+    "자바 ORM 표준 JPA 프로그래밍/3. 영속성 관리.md",
+    "QueryDSL/1. 설정.md",
+    "QueryDSL/3. 기본 문법.md",
+    "스프링 외부 설정.md",
+    "Users/navill/Documents/Obsidian Vault/Pasted image 20240102215222.png",
+    "Users/navill/Documents/Obsidian Vault/Pasted image 20240102214613.png",
+    "QueryDSL",
+    "스프링 데이터 JPA/5. 확장 기능.md",
+    "스프링 데이터 JPA/4. 쿼리 메소드 기능.md",
+    "스프링 데이터 JPA/3. 공통 인페이스 기능.md",
+    "스프링 데이터 JPA/Users/navill/Documents/Obsidian Vault/Pasted image 20231231220146.png",
+    "스프링 데이터 JPA/Users/navill/Documents/Obsidian Vault",
+    "스프링 데이터 JPA/Users/navill/Documents",
+    "스프링 데이터 JPA/Users/navill",
+    "스프링 데이터 JPA/Users",
+    "스프링부트와 JPA/4. API 개발 고급 - 컬렉션 조회 최적화.md",
+    "스프링부트와 JPA/Users/navill/Documents/Obsidian Vault/Pasted image 20231226004540.png",
+    "스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
+    "자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
+    "스프링부트와 JPA/1. API 개발 기본.md",
+    "자바 ORM 표준 JPA 프로그래밍/11-1 엔티티 직접 사용, Named 쿼리, 벌크 연산.md",
+    "자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault/Pasted image 20231221203642.png",
+    "자바 ORM 표준 JPA 프로그래밍/11. 객체 지향 쿼리 언어.md",
+    "자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
+    "자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault/Pasted image 20231221174841.png",
+    "자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault/Pasted image 20231221173155.png",
+    "자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault/Pasted image 20231221172947.png",
+    "자바 ORM 표준 JPA 프로그래밍/10.  객체지향 쿼리 언어.md",
+    "JPA/8. 스프링 트랜잭션.md",
+    "JPA/커넥션풀과 데이터소스.md",
+    "JPA/Exceptions.md",
+    "JPA/Spring Test.md",
+    "자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
+    "자바 ORM 표준 JPA 프로그래밍/7. 고급 매핑.md",
+    "templates/Untitled.canvas"
+  ]
+}

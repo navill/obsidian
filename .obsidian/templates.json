@@ -1,0 +1,5 @@
+{
+  "dateFormat": "{{date:YYYY-MM-DD}}",
+  "timeFormat": "{{time:HH:MM}}",
+  "folder": "/Users/navill/Documents/Obsidian Vault/templates"
+}
