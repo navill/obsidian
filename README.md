@@ -2,13 +2,13 @@
 ### Notion
 - [학습 자료](https://www.notion.so/navill/9ac481e95c0240fcba1b72c3f5650892?pvs=4)
 
-
 ### Python
 - 
 
 ### SQL
-- [SQL 개념 정리](SQL/SQL%20개념%20정리.md)
-- [Index](SQL/Index.md)
+- [SQL 용어 정리](SQL(친절한%20SQL%20튜닝%20정리)/SQL%20용어%20정리.md)
+- [SQL 개념 정리](SQL(친절한%20SQL%20튜닝%20정리)/SQL%20개념%20정리.md)
+- [Index](SQL(친절한%20SQL%20튜닝%20정리)/Index.md)
 
 ### Spring(inflean - 김영한 강의 요약)
 - 스프링 데이터 JPA
