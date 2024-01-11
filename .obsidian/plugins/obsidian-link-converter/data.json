@@ -1,6 +1,6 @@
 {
   "mySetting": "default",
-  "contextMenu": true,
-  "finalLinkFormat": "relative-path",
+  "contextMenu": false,
+  "finalLinkFormat": "shortest-path",
   "keepMtime": false
 }
