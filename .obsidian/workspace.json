@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL(친절한 SQL 튜닝 정리)/SQL 용어 정리.md",
+                "file": "SQL(친절한 SQL 튜닝 정리)/SQL 개념 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL(친절한 SQL 튜닝 정리)/SQL 용어 정리.md",
+                "file": "SQL(친절한 SQL 튜닝 정리)/SQL 개념 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL(친절한 SQL 튜닝 정리)/SQL 용어 정리.md",
+                "file": "SQL(친절한 SQL 튜닝 정리)/SQL 개념 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL(친절한 SQL 튜닝 정리)/SQL 용어 정리.md"
+                "file": "SQL(친절한 SQL 튜닝 정리)/SQL 개념 정리.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   },
   "active": "8740ed403c7017c4",
   "lastOpenFiles": [
-    "SQL(친절한 SQL 튜닝 정리)/SQL 개념 정리.md",
     "SQL(친절한 SQL 튜닝 정리)/SQL 용어 정리.md",
+    "SQL(친절한 SQL 튜닝 정리)/SQL 개념 정리.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
     "Spring/스프링 외부 설정.md",
     "Spring/관심사 분리.md",
