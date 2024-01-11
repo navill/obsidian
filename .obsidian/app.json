@@ -1,5 +1,6 @@
 {
   "newLinkFormat": "relative",
   "attachmentFolderPath": ".//Users/navill/Documents/Obsidian Vault",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": false
 }

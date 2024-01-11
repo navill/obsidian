@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QueryDSL/3. 기본 문법.md",
+                "file": "Spring boot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QueryDSL/3. 기본 문법.md",
+                "file": "Spring boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QueryDSL/3. 기본 문법.md",
+                "file": "Spring boot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QueryDSL/3. 기본 문법.md"
+                "file": "Spring boot.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa1e15590cd5dde4",
+  "active": "4481469c1af644df",
   "lastOpenFiles": [
+    "Users/navill/Documents/Obsidian Vault/Pasted image 20240111170157.png",
+    "Users/navill/Documents/Obsidian Vault/Pasted image 20240111165906.png",
+    "Users/navill/Documents/Obsidian Vault/Pasted image 20240111165806.png",
+    "QueryDSL/3. 기본 문법.md",
     "SQL/Index.md",
     "SQL/SQL 개념 정리.md",
     "SQL/Users/navill/Documents/Obsidian Vault/Pasted image 20240111150415.png",
@@ -162,7 +166,6 @@
     "자바 ORM 표준 JPA 프로그래밍/4. 엔티티 매핑.md",
     "자바 ORM 표준 JPA 프로그래밍/3. 영속성 관리.md",
     "QueryDSL/1. 설정.md",
-    "QueryDSL/3. 기본 문법.md",
     "스프링 외부 설정.md",
     "Users/navill/Documents/Obsidian Vault/Pasted image 20240102215222.png",
     "Users/navill/Documents/Obsidian Vault/Pasted image 20240102214613.png",
@@ -185,15 +188,12 @@
     "자바 ORM 표준 JPA 프로그래밍/11. 객체 지향 쿼리 언어.md",
     "자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
     "자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault/Pasted image 20231221174841.png",
-    "자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault/Pasted image 20231221173155.png",
-    "자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault/Pasted image 20231221172947.png",
     "자바 ORM 표준 JPA 프로그래밍/10.  객체지향 쿼리 언어.md",
     "JPA/8. 스프링 트랜잭션.md",
     "JPA/커넥션풀과 데이터소스.md",
     "JPA/Exceptions.md",
     "JPA/Spring Test.md",
     "자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
-    "자바 ORM 표준 JPA 프로그래밍/7. 고급 매핑.md",
     "templates/Untitled.canvas"
   ]
 }
