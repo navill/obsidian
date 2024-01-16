@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/bastion server 구성.md",
+                "file": "aws/VPC 엔드포인트.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/bastion server 구성.md",
+                "file": "aws/VPC 엔드포인트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/bastion server 구성.md",
+                "file": "aws/VPC 엔드포인트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/bastion server 구성.md"
+                "file": "aws/VPC 엔드포인트.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "9c59b765eaf71a79",
   "lastOpenFiles": [
-    "aws/VPC 엔드포인트.md",
     "aws/bastion server 구성.md",
+    "aws/VPC 엔드포인트.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240116182844.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240116221323.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240116183515.png",
