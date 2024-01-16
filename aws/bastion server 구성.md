@@ -1,5 +1,9 @@
 ![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240116182844.png)
-
+- 다른 VPC 영역 또는 AWS 퍼블릭 서비스를 이용할 경우, VPC 엔드포인트를 구성해야함
+	- 엔드포인트: AWS 퍼블릭 서비스 대상 프라이빗 연결
+		- 게이트웨이 엔드포인트: S3, DynamoDB
+		- 인터페이스 엔드포인트: 위 대상 외에 나버지 AWS 퍼블릭 서비스
+	- 엔드포인트 서비스: 사용자 지정 서비스 대상 연결
 ### public server(bastion)
 - public subnet에 구성될 서버
 
