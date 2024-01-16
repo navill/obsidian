@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/VPC 엔드포인트.md",
+                "file": "aws/bastion server 구성.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 477.5
   },
   "right": {
     "id": "cdd2771838fc8117",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/VPC 엔드포인트.md",
+                "file": "aws/bastion server 구성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/VPC 엔드포인트.md",
+                "file": "aws/bastion server 구성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/VPC 엔드포인트.md"
+                "file": "aws/bastion server 구성.md"
               }
             }
           }
@@ -161,11 +161,12 @@
   },
   "active": "9c59b765eaf71a79",
   "lastOpenFiles": [
+    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240116182844.png",
     "aws/bastion server 구성.md",
+    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240116221323.png",
     "aws/VPC 엔드포인트.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240116183515.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240116183329.png",
-    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240116182844.png",
     "aws/Users/navill/Documents/Obsidian Vault",
     "aws/Users/navill/Documents",
     "aws/Users/navill",
@@ -192,7 +193,6 @@
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault/Pasted image 20231221172947.png",
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault/Pasted image 20231221171749.png",
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault/Pasted image 20231218175411.png",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault/Pasted image 20231216011905.png",
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault",
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents",
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users/navill",
@@ -206,7 +206,6 @@
     "Spring/자바 ORM 표준 JPA 프로그래밍/11-1 엔티티 직접 사용, Named 쿼리, 벌크 연산.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/10.  객체지향 쿼리 언어.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍",
-    "Spring/스프링빈 & 의존관계.md",
     "templates/Untitled.canvas"
   ]
 }
