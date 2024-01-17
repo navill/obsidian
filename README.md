@@ -2,7 +2,7 @@
 ### Notion
 - [학습 자료](https://www.notion.so/navill/9ac481e95c0240fcba1b72c3f5650892?pvs=4)
 
-### Python
+### AWS
 - 
 
 ### SQL(친절한 SQL 튜닝 정리)

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/AWS 인터넷 연결.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/AWS 인터넷 연결.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/AWS 인터넷 연결.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/AWS 인터넷 연결.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "bbbbe026f68a133b",
   "lastOpenFiles": [
-    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240118005710.png",
     "aws/AWS 배치(placement) 그룹.md",
-    "aws/VPC 엔드포인트.md",
     "aws/bastion server 구성.md",
     "aws/AWS 인터넷 연결.md",
+    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240118005710.png",
+    "aws/VPC 엔드포인트.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117195401.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117195259.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117194715.png",
@@ -187,7 +187,6 @@
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192833.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192706.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192547.png",
-    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117185508.png",
     "aws/Users/navill/Documents/Obsidian Vault",
     "aws/Users/navill/Documents",
     "aws/Users/navill",
