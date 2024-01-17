@@ -12,7 +12,9 @@
 - 퍼블릭 EC2에서 S3 DNS로 핑을 찍어보면 성공
 - 프라이빗 EC2에서 S3 DNS로 핑을 찍어보면 실패
 
-### 엔드포인트 설정
+## 엔드포인트 설정
+
+#### 게이트웨이 엔드포인트
 - VPC -> 엔드포인트 탭에서 엔드포인트 추가
 - 서비스 탭에서 s3(gateway유형) 선택
 	![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117184430.png)
@@ -23,3 +25,10 @@
 
 - 프라이빗 EC2에 접속해서 ping 시도 -> 성공
 	![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117184851.png)
+	![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117185508.png)
+
+
+#### 인터페이스 엔드포인트
+- 프라이빗 EC2에서 cloudformation dns에 대한 ping 시도 -> 실패
+	- 외부 인터넷 접근이 불가능한 상태(프라이빗 링크 연결 X)
+
