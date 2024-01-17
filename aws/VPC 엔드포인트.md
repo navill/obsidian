@@ -43,4 +43,11 @@
 > 	- 기본 DNS 호스트: 인터페이스 엔드포인트를 통한 프라이빗 통신
 > 	- 엔드포인트 전용 DNS 호스트: 인터페이스 엔드포인트를 통한 프라이빗 통신
 
-
+1. VPC 설정 편집
+	- DNS 호스트 이름 활성화 체크
+		![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117192547.png)
+2. 엔드포인트 생성
+	![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117192958.png)
+	
+	
+	
