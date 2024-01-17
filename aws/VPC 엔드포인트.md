@@ -14,4 +14,12 @@
 
 ### 엔드포인트 설정
 - VPC -> 엔드포인트 탭에서 엔드포인트 추가
-- 서비스 탭의 필터에 s3 -> gateway
+- 서비스 탭에서 s3(gateway유형) 선택
+	![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117184430.png)
+- 적용하려는 VPC와 연결이 필요한 라우팅 테이블(퍼블릭, 프라이빗) 선택
+- 설정 완료 후 라우팅 테이블 설정으로 가서 퍼블릭, 프라이빗 라우팅 테이블에 엔드포인트가 추가되었는지 확인
+	![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117184623.png)
+	![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117184706.png)
+
+- 프라이빗 EC2에 접속해서 ping 시도 -> 성공
+	![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117184851.png)
