@@ -53,12 +53,12 @@
 		 - vpce-0adc6c7014c7502ea-jc1mmoyt.cloudformation.ap-northeast-2.vpce.amazonaws.com(엔드포인트 전용 DNS 호스트)
 		 - vpce-0adc6c7014c7502ea-jc1mmoyt-ap-northeast-2a.cloudformation.ap-northeast-2.vpce.amazonaws.com(엔드포인트 전용 DNS 호스트)
 		 - vpce-0adc6c7014c7502ea-jc1mmoyt-ap-northeast-2c.cloudformation.ap-northeast-2.vpce.amazonaws.com(엔드포인트 전용 DNS 호스트)
-1. 검증
+3. 검증
 	- 설정 전 CloudFormation DNS 확인
 		![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117194633.png)
 	- 설정 후 CloudFormation DNS 확인
 		![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117195401.png)
-		
 		- private ip 확인할 수 있음
+		- 만약 DNS 이름 활성화를 체크 해제할 경우, 첫번째 dig 결과는 퍼블릭 IP가 출력됨(기본 DNS 호스트)
 	
 	
