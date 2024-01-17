@@ -3,8 +3,12 @@
 - [학습 자료](https://www.notion.so/navill/9ac481e95c0240fcba1b72c3f5650892?pvs=4)
 
 ### AWS
-- 
-
+- [AWS 인터넷 연결](aws/AWS%20인터넷%20연결.md)
+- [AWS 배치(placement) 그룹](aws/AWS%20배치(placement)%20그룹.md)
+- VPC
+	- [VPC 엔드포인트](aws/VPC%20엔드포인트.md)
+	- [bastion server 구성](aws/bastion%20server%20구성.md)
+- ELB
 ### SQL(친절한 SQL 튜닝 정리)
 - [SQL 용어 정리](SQL(친절한%20SQL%20튜닝%20정리)/SQL%20용어%20정리.md)
 - [SQL 개념 정리](SQL(친절한%20SQL%20튜닝%20정리)/SQL%20개념%20정리.md)
