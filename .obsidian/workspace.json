@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbbbe026f68a133b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/AWS 배치(placement) 그룹.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/VPC 엔드포인트.md",
+                "file": "aws/AWS 배치(placement) 그룹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/VPC 엔드포인트.md",
+                "file": "aws/AWS 배치(placement) 그룹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/VPC 엔드포인트.md"
+                "file": "aws/AWS 배치(placement) 그룹.md"
               }
             }
           }
@@ -159,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c59b765eaf71a79",
+  "active": "bbbbe026f68a133b",
   "lastOpenFiles": [
+    "aws/VPC 엔드포인트.md",
+    "aws/AWS 배치(placement) 그룹.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117195401.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117195259.png",
-    "aws/VPC 엔드포인트.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117194715.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117194633.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192958.png",
@@ -172,7 +185,6 @@
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192706.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192547.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117185508.png",
-    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117184851.png",
     "aws/bastion server 구성.md",
     "aws/Users/navill/Documents/Obsidian Vault",
     "aws/Users/navill/Documents",
