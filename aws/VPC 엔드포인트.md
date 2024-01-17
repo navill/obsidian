@@ -8,4 +8,10 @@
 - 엔드포인트 서비스([docs](https://docs.aws.amazon.com/ko_kr/vpc/latest/privatelink/create-endpoint-service.html)): 사용자 지정 서비스 대상 연결
 - 인터페이스 엔드포인트와 엔드포인트 서비스를 프라이빗 링크(private link)라고 부름
 
+![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117183725.png)
+- 퍼블릭 EC2에서 S3 DNS로 핑을 찍어보면 성공
+- 프라이빗 EC2에서 S3 DNS로 핑을 찍어보면 실패
 
+### 엔드포인트 설정
+- VPC -> 엔드포인트 탭에서 엔드포인트 추가
+- 서비스 탭의 필터에 s3 -> gateway
