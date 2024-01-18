@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1bab1e58bc1d18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/ELB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/AWS 인터넷 연결.md",
+                "file": "aws/ELB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/AWS 인터넷 연결.md",
+                "file": "aws/ELB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/AWS 인터넷 연결.md"
+                "file": "aws/ELB.md"
               }
             }
           }
@@ -183,13 +195,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f54d451029605320",
+  "active": "b1bab1e58bc1d18d",
   "lastOpenFiles": [
+    "aws/AWS 인터넷 연결.md",
+    "aws/ELB.md",
     "aws/VPC 엔드포인트.md",
     "README.md",
     "aws/bastion server 구성.md",
     "aws/AWS 배치(placement) 그룹.md",
-    "aws/AWS 인터넷 연결.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240118005710.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117195401.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117195259.png",
