@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/AWS 배치(placement) 그룹.md",
+                "file": "aws/VPC 엔드포인트.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/AWS 배치(placement) 그룹.md",
+                "file": "aws/VPC 엔드포인트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/AWS 배치(placement) 그룹.md",
+                "file": "aws/VPC 엔드포인트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/AWS 배치(placement) 그룹.md"
+                "file": "aws/VPC 엔드포인트.md"
               }
             }
           }
@@ -197,13 +197,13 @@
   },
   "active": "b1bab1e58bc1d18d",
   "lastOpenFiles": [
+    "aws/AWS 배치(placement) 그룹.md",
     "aws/bastion server 구성.md",
     "aws/ELB.md",
     "aws/네트워크 연결.md",
     "aws/AWS 인터넷 연결.md",
     "aws/VPC 엔드포인트.md",
     "README.md",
-    "aws/AWS 배치(placement) 그룹.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240118005710.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117195401.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117195259.png",
