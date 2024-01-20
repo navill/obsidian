@@ -48,6 +48,8 @@
 		![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117192547.png)
 2. 엔드포인트 생성
 	![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240117192958.png)
+	 ![](Users/navill/Documents/Obsidian%20Vault/Pasted%20image%2020240120184138.png)
+	 
 	 - DNS 이름 확인
 		 - cloudformation.ap-northeast-2.amazonaws.com(기본 DNS 호스트)
 		 - vpce-0adc6c7014c7502ea-jc1mmoyt.cloudformation.ap-northeast-2.vpce.amazonaws.com(엔드포인트 전용 DNS 호스트)
