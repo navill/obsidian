@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECR.md",
+                "file": "aws/ECS.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECR.md",
+                "file": "aws/ECS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECR.md",
+                "file": "aws/ECS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECR.md"
+                "file": "aws/ECS.md"
               }
             }
           }
@@ -209,8 +209,15 @@
   },
   "active": "a7ef347e489cf6c2",
   "lastOpenFiles": [
+    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123224723.png",
+    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123224704.png",
+    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123224653.png",
+    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123224122.png",
+    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123224121.png",
+    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123224104.png",
+    "aws/ECR.md",
+    "aws/ECS.md",
     "aws/bastion server 구성.md",
-    "ECR.md",
     "aws/VPC 엔드포인트.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240120184138.png",
     "aws/AWS 인터넷 연결.md",
@@ -222,11 +229,6 @@
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240118005710.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117195401.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117195259.png",
-    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117194715.png",
-    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117194633.png",
-    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192958.png",
-    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192835.png",
-    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192833.png",
     "aws/Users/navill/Documents/Obsidian Vault",
     "aws/Users/navill/Documents",
     "aws/Users/navill",
@@ -252,8 +254,6 @@
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users",
     "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/7. 고급 매핑.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/4. 엔티티 매핑.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍",
     "templates/Untitled.canvas"
   ]
