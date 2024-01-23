@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/VPC 엔드포인트.md",
+                "file": "aws/bastion server 구성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7ef347e489cf6c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECR.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/VPC 엔드포인트.md",
+                "file": "ECR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/VPC 엔드포인트.md",
+                "file": "ECR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/VPC 엔드포인트.md"
+                "file": "ECR.md"
               }
             }
           }
@@ -195,14 +207,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1bab1e58bc1d18d",
+  "active": "a7ef347e489cf6c2",
   "lastOpenFiles": [
-    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240120184138.png",
     "aws/bastion server 구성.md",
+    "ECR.md",
+    "aws/VPC 엔드포인트.md",
+    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240120184138.png",
     "aws/AWS 인터넷 연결.md",
     "aws/AWS 배치(placement) 그룹.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240116183329.png",
-    "aws/VPC 엔드포인트.md",
     "aws/ELB.md",
     "aws/네트워크 연결.md",
     "README.md",
@@ -214,7 +227,6 @@
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192958.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192835.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192833.png",
-    "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240117192706.png",
     "aws/Users/navill/Documents/Obsidian Vault",
     "aws/Users/navill/Documents",
     "aws/Users/navill",
