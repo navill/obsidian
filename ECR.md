@@ -13,3 +13,6 @@ $ aws ecr --region ap-northeast-2 get-login-password | docker login --username A
 
 - An error occurred (ExpiredTokenException) when calling the GetAuthorizationToken operation: The security token included in the request is expired 오류 발생 시 -> aws configure에서 엑세스 아이디 & 키 재등록
 
+
+ECR 구현을 위한 3개의 엔드포인트
+com.amazonaws
