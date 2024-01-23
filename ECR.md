@@ -17,4 +17,4 @@ $ aws ecr --region ap-northeast-2 get-login-password | docker login --username A
 ECR 구현을 위한 3개의 엔드포인트
 - com.amazonaws.ap-northeast-2.ecr.api: aws cli용
 - com.amazonaws.ap-northeast-2.ecr.dkr: docker image push용
-- com.amazonaws.ap-northeast-2.s3: 도커 이미지 저장용
+- com.amazonaws.ap-northeast-2.s3: static 파일
