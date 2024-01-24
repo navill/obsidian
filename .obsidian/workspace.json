@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/ECS.md",
+                "file": "aws/ECR.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/ECS.md",
+                "file": "aws/ECR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/ECS.md",
+                "file": "aws/ECR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/ECS.md"
+                "file": "aws/ECR.md"
               }
             }
           }
@@ -209,8 +209,8 @@
   },
   "active": "a7ef347e489cf6c2",
   "lastOpenFiles": [
-    "aws/ECR.md",
     "aws/ECS.md",
+    "aws/ECR.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225616.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225606.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225518.png",
