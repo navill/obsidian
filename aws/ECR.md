@@ -1,3 +1,7 @@
+- ECR 정책 예제 doc: https://docs.aws.amazon.com/ko_kr/AmazonECR/latest/userguide/security_iam_id-based-policy-examples.html
+- 
+
+
 
 
 ECR 컨테이너 이미지를 계정별로 식별하기 때문에 정해진 형식으로 등록해야함
