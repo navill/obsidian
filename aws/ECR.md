@@ -1,6 +1,46 @@
-- ECR 정책 예제 doc: https://docs.aws.amazon.com/ko_kr/AmazonECR/latest/userguide/security_iam_id-based-policy-examples.html
-- 
-
+- ECR 정책: https://docs.aws.amazon.com/ko_kr/AmazonECR/latest/userguide/security_iam_id-based-policy-examples.html
+- ECR 레포 엑세스 정책 예시: https://docs.aws.amazon.com/ko_kr/AmazonECR/latest/userguide/security_iam_id-based-policy-examples.html#security_iam_id-based-policy-examples-access-one-bucket
+```
+{
+   "Version":"2012-10-17",
+   "Statement":[
+      {
+         "Sid":"ListImagesInRepository",
+         "Effect":"Allow",
+         "Action":[
+            "ecr:ListImages"
+         ],
+         "Resource":"arn:aws:ecr:ap-northest-2:123456789012:repository/my-repo"
+      },
+      {
+         "Sid":"GetAuthorizationToken",
+         "Effect":"Allow",
+         "Action":[
+            "ecr:GetAuthorizationToken"
+         ],
+         "Resource":"*"
+      },
+      {
+         "Sid":"ManageRepositoryContents",
+         "Effect":"Allow",
+         "Action":[
+                "ecr:BatchCheckLayerAvailability",
+                "ecr:GetDownloadUrlForLayer",
+                "ecr:GetRepositoryPolicy",
+                "ecr:DescribeRepositories",
+                "ecr:ListImages",
+                "ecr:DescribeImages",
+                "ecr:BatchGetImage",
+                "ecr:InitiateLayerUpload",
+                "ecr:UploadLayerPart",
+                "ecr:CompleteLayerUpload",
+                "ecr:PutImage"
+         ],
+         "Resource":"arn:aws:ecr:ap-northest-2:123456789012:repository/my-repo"
+      }
+   ]
+}
+```
 
 
 
