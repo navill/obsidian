@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/ELB.md",
+                "file": "aws/ECR.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/ELB.md",
+                "file": "aws/ECR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/ELB.md",
+                "file": "aws/ECR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/ELB.md"
+                "file": "aws/ECR.md"
               }
             }
           }
@@ -210,6 +210,7 @@
   "active": "a7ef347e489cf6c2",
   "lastOpenFiles": [
     "aws/ECS.md",
+    "aws/ELB.md",
     "aws/ECR.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225616.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225606.png",
@@ -225,7 +226,6 @@
     "aws/VPC 엔드포인트.md",
     "aws/AWS 인터넷 연결.md",
     "aws/AWS 배치(placement) 그룹.md",
-    "aws/ELB.md",
     "aws/네트워크 연결.md",
     "README.md",
     "aws/Users/navill/Documents/Obsidian Vault",
