@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/bastion server 구성.md",
+                "file": "Spring/JPA/8. 스프링 트랜잭션.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/bastion server 구성.md",
+                "file": "Spring/JPA/8. 스프링 트랜잭션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/bastion server 구성.md",
+                "file": "Spring/JPA/8. 스프링 트랜잭션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/bastion server 구성.md"
+                "file": "Spring/JPA/8. 스프링 트랜잭션.md"
               }
             }
           }
@@ -198,12 +197,32 @@
   },
   "active": "b1bab1e58bc1d18d",
   "lastOpenFiles": [
+    "Spring/스프링빈 & 의존관계.md",
+    "Spring/7. 의존관계 자동주입.md",
+    "Spring/QueryDSL/3. 기본 문법.md",
+    "Spring/QueryDSL/1. 설정.md",
+    "Spring/JPA/Spring Test.md",
+    "Spring/JPA/Exceptions.md",
+    "Spring/JPA/커넥션풀과 데이터소스.md",
+    "Spring/JPA/8. 스프링 트랜잭션.md",
+    "Spring/JPA/1. 데이터 접근 기술.md",
+    "Spring/JPA/3. 데이터 접근 기술 - 테스트.md",
+    "Spring/JPA/5. 데이터 접근 기술 - JPA.md",
+    "Spring/JPA/6.데이터 접근 기술 - 스프링 데이터 JPA.md",
+    "Spring/JPA/7. 데이터 접근 기술 - QueryDSL.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/11. 객체 지향 쿼리 언어.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/11-1 엔티티 직접 사용, Named 쿼리, 벌크 연산.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/10.  객체지향 쿼리 언어.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/7. 고급 매핑.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/4. 엔티티 매핑.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/3. 영속성 관리.md",
+    "Spring/스프링부트와 JPA/4. API 개발 고급 - 컬렉션 조회 최적화.md",
+    "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
+    "Spring/스프링부트와 JPA/1. API 개발 기본.md",
+    "aws/bastion server 구성.md",
     "2024-01-30.md",
-    "aws/CodeBuilder.md",
-    "aws/Cloud9.md",
-    "aws/ECR.md",
-    "aws/ECS.md",
-    "aws/ELB.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225616.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225606.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225518.png",
@@ -214,31 +233,11 @@
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123224122.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123224121.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123224104.png",
-    "aws/bastion server 구성.md",
-    "aws/VPC 엔드포인트.md",
-    "aws/AWS 인터넷 연결.md",
-    "aws/AWS 배치(placement) 그룹.md",
-    "aws/네트워크 연결.md",
-    "README.md",
     "aws/Users/navill/Documents/Obsidian Vault",
     "aws/Users/navill/Documents",
     "aws/Users/navill",
     "aws/Users",
-    "aws.md",
     "aws",
-    "SQL(친절한 SQL 튜닝 정리)/Index 설계.md",
-    "SQL(친절한 SQL 튜닝 정리)/Index.md",
-    "SQL(친절한 SQL 튜닝 정리)/SQL 개념 정리.md",
-    "SQL(친절한 SQL 튜닝 정리)/SQL 용어 정리.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
-    "Spring/스프링 외부 설정.md",
-    "Spring/관심사 분리.md",
-    "Spring/9. 빈 스코프.md",
-    "Spring/8. 빈 생명주기 콜백.md",
-    "Spring/QueryDSL/1. 설정.md",
-    "Spring/QueryDSL/3. 기본 문법.md",
-    "Spring/MVC 프레임워크 이해/스프링 MVC 시작.md",
-    "Spring/컴포넌트 스캔.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents/Obsidian Vault",
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents",
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users/navill",
