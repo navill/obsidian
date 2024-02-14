@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL(친절한 SQL 튜닝 정리)/Index 설계.md",
+                "file": "aws/ECS.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL(친절한 SQL 튜닝 정리)/Index 설계.md",
+                "file": "aws/ECS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL(친절한 SQL 튜닝 정리)/Index 설계.md",
+                "file": "aws/ECS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL(친절한 SQL 튜닝 정리)/Index 설계.md"
+                "file": "aws/ECS.md"
               }
             }
           }
@@ -197,6 +197,10 @@
   },
   "active": "b1bab1e58bc1d18d",
   "lastOpenFiles": [
+    "aws/ELB.md",
+    "aws/ECS.md",
+    "aws/ECR.md",
+    "SQL(친절한 SQL 튜닝 정리)/Index 설계.md",
     "SQL(친절한 SQL 튜닝 정리)/Index.md",
     "Spring/JPA/8. 스프링 트랜잭션.md",
     "Spring/스프링빈 & 의존관계.md",
@@ -219,10 +223,6 @@
     "Spring/자바 ORM 표준 JPA 프로그래밍/7. 고급 매핑.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/4. 엔티티 매핑.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/3. 영속성 관리.md",
-    "Spring/스프링부트와 JPA/4. API 개발 고급 - 컬렉션 조회 최적화.md",
-    "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
-    "Spring/스프링부트와 JPA/1. API 개발 기본.md",
-    "aws/bastion server 구성.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225616.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225606.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225518.png",
