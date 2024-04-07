@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "주인",
+                "query": "연관관",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1bab1e58bc1d18d",
+  "active": "f753ba2e67e3b584",
   "lastOpenFiles": [
     "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
