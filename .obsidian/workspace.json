@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "single table",
+                "query": "주인",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,11 +198,12 @@
   },
   "active": "b1bab1e58bc1d18d",
   "lastOpenFiles": [
+    "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/4. 엔티티 매핑.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/3. 영속성 관리.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/7. 고급 매핑.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
     "Spring/JPA/3. 데이터 접근 기술 - 테스트.md",
     "Spring/Singleton.md",
     "Spring/Spring boot.md",
@@ -223,7 +225,6 @@
     "SQL(친절한 SQL 튜닝 정리)/Index.md",
     "Spring/JPA/8. 스프링 트랜잭션.md",
     "Spring/QueryDSL/3. 기본 문법.md",
-    "Spring/QueryDSL/1. 설정.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225616.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225606.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225518.png",
