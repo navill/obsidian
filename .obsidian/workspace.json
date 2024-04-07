@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Singleton.md",
+                "file": "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "영속성 컨텍스트",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Singleton.md",
+                "file": "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Singleton.md",
+                "file": "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Singleton.md"
+                "file": "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md"
               }
             }
           }
@@ -197,9 +198,12 @@
   },
   "active": "b1bab1e58bc1d18d",
   "lastOpenFiles": [
+    "Spring/자바 ORM 표준 JPA 프로그래밍/4. 엔티티 매핑.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/3. 영속성 관리.md",
+    "Spring/JPA/3. 데이터 접근 기술 - 테스트.md",
+    "Spring/Singleton.md",
     "Spring/Spring boot.md",
     "Spring/Spring 회원가입.md",
-    "Spring/Singleton.md",
     "Spring/MVC와 템플릿 엔진.md",
     "Spring/JAVA 문법 정리.md",
     "Spring/DIP.md",
@@ -221,9 +225,6 @@
     "Spring/JPA/Spring Test.md",
     "Spring/JPA/Exceptions.md",
     "Spring/JPA/커넥션풀과 데이터소스.md",
-    "Spring/JPA/1. 데이터 접근 기술.md",
-    "Spring/JPA/3. 데이터 접근 기술 - 테스트.md",
-    "Spring/JPA/5. 데이터 접근 기술 - JPA.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225616.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225606.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225518.png",
