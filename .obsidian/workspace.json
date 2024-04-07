@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/ECS.md",
+                "file": "Spring/Singleton.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/ECS.md",
+                "file": "Spring/Singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws/ECS.md",
+                "file": "Spring/Singleton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws/ECS.md"
+                "file": "Spring/Singleton.md"
               }
             }
           }
@@ -197,14 +197,25 @@
   },
   "active": "b1bab1e58bc1d18d",
   "lastOpenFiles": [
-    "aws/ELB.md",
+    "Spring/Spring boot.md",
+    "Spring/Spring 회원가입.md",
+    "Spring/Singleton.md",
+    "Spring/MVC와 템플릿 엔진.md",
+    "Spring/JAVA 문법 정리.md",
+    "Spring/DIP.md",
+    "Spring/컴포넌트 스캔.md",
+    "Spring/스프링빈 & 의존관계.md",
+    "Spring/스프링 웹 개발 기초.md",
+    "Spring/스프링 외부 설정.md",
+    "Spring/스프링 핵심 원리/9. 빈 스코프.md",
+    "Spring/스프링 핵심 원리/7. 의존관계 자동주입.md",
     "aws/ECS.md",
+    "Spring/스프링 핵심 원리",
+    "aws/ELB.md",
     "aws/ECR.md",
     "SQL(친절한 SQL 튜닝 정리)/Index 설계.md",
     "SQL(친절한 SQL 튜닝 정리)/Index.md",
     "Spring/JPA/8. 스프링 트랜잭션.md",
-    "Spring/스프링빈 & 의존관계.md",
-    "Spring/7. 의존관계 자동주입.md",
     "Spring/QueryDSL/3. 기본 문법.md",
     "Spring/QueryDSL/1. 설정.md",
     "Spring/JPA/Spring Test.md",
@@ -213,16 +224,6 @@
     "Spring/JPA/1. 데이터 접근 기술.md",
     "Spring/JPA/3. 데이터 접근 기술 - 테스트.md",
     "Spring/JPA/5. 데이터 접근 기술 - JPA.md",
-    "Spring/JPA/6.데이터 접근 기술 - 스프링 데이터 JPA.md",
-    "Spring/JPA/7. 데이터 접근 기술 - QueryDSL.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/11. 객체 지향 쿼리 언어.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/11-1 엔티티 직접 사용, Named 쿼리, 벌크 연산.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/10.  객체지향 쿼리 언어.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/7. 고급 매핑.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/4. 엔티티 매핑.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/3. 영속성 관리.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225616.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225606.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225518.png",
@@ -242,7 +243,6 @@
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users/navill/Documents",
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users/navill",
     "Spring/자바 ORM 표준 JPA 프로그래밍/Users",
-    "Spring/자바 ORM 표준 JPA 프로그래밍",
     "templates/Untitled.canvas"
   ]
 }
