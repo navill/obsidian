@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "연관관",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cdd2771838fc8117",
@@ -196,7 +197,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f753ba2e67e3b584",
+  "active": "b1bab1e58bc1d18d",
   "lastOpenFiles": [
     "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
