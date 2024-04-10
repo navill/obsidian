@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/스프링부트와 JPA/1. API 개발 기본.md",
+                "file": "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링부트와 JPA/1. API 개발 기본.md",
+                "file": "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/스프링부트와 JPA/1. API 개발 기본.md",
+                "file": "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링부트와 JPA/1. API 개발 기본.md"
+                "file": "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md"
               }
             }
           }
@@ -197,8 +197,8 @@
   },
   "active": "b1bab1e58bc1d18d",
   "lastOpenFiles": [
-    "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
     "Spring/스프링부트와 JPA/1. API 개발 기본.md",
+    "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/4. 엔티티 매핑.md",
