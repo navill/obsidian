@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "@JsonIg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
