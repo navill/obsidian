@@ -71,9 +71,11 @@
             "id": "af6604426cfddcff",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
