@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
+                "file": "Spring/JPA/8. 스프링 트랜잭션.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@JsonIg",
+                "query": "aop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
+                "file": "Spring/JPA/8. 스프링 트랜잭션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
+                "file": "Spring/JPA/8. 스프링 트랜잭션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md"
+                "file": "Spring/JPA/8. 스프링 트랜잭션.md"
               }
             }
           }
@@ -207,10 +208,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af6604426cfddcff",
+  "active": "f753ba2e67e3b584",
   "lastOpenFiles": [
-    "Spring/스프링부트와 JPA/1. API 개발 기본.md",
+    "Spring/스프링 핵심 원리/7. 의존관계 자동주입.md",
+    "Spring/JPA/5. 데이터 접근 기술 - JPA.md",
+    "Spring/컴포넌트 스캔.md",
     "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
+    "Spring/스프링부트와 JPA/1. API 개발 기본.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/4. 엔티티 매핑.md",
@@ -224,18 +228,15 @@
     "Spring/MVC와 템플릿 엔진.md",
     "Spring/JAVA 문법 정리.md",
     "Spring/DIP.md",
-    "Spring/컴포넌트 스캔.md",
     "Spring/스프링빈 & 의존관계.md",
     "Spring/스프링 웹 개발 기초.md",
     "Spring/스프링 외부 설정.md",
     "Spring/스프링 핵심 원리/9. 빈 스코프.md",
-    "Spring/스프링 핵심 원리/7. 의존관계 자동주입.md",
     "aws/ECS.md",
     "Spring/스프링 핵심 원리",
     "aws/ELB.md",
     "aws/ECR.md",
     "SQL(친절한 SQL 튜닝 정리)/Index 설계.md",
-    "SQL(친절한 SQL 튜닝 정리)/Index.md",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225616.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225606.png",
     "aws/Users/navill/Documents/Obsidian Vault/Pasted image 20240123225518.png",
