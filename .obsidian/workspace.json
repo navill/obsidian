@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mappedby",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "cdd2771838fc8117",
