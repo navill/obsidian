@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
+                "file": "Spring/JPA/6.데이터 접근 기술 - 스프링 데이터 JPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "cdd2771838fc8117",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
+                "file": "Spring/JPA/6.데이터 접근 기술 - 스프링 데이터 JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
+                "file": "Spring/JPA/6.데이터 접근 기술 - 스프링 데이터 JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md"
+                "file": "Spring/JPA/6.데이터 접근 기술 - 스프링 데이터 JPA.md"
               }
             }
           }
@@ -150,9 +148,13 @@
   },
   "active": "5e25e7db4c68c8fd",
   "lastOpenFiles": [
+    "Spring/JPA/5. 데이터 접근 기술 - JPA.md",
+    "Spring/JPA/3. 데이터 접근 기술 - 테스트.md",
+    "Spring/JPA/1. 데이터 접근 기술.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/3. 영속성 관리.md",
+    "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
     "Spring/스프링부트와 JPA/1. API 개발 기본.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/8. 프록시와 연관관계.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/5. 연관관계 매핑.md",
     "Spring/스프링부트와 JPA/4. API 개발 고급 - 컬렉션 조회 최적화.md",
     "Spring/스프링부트와 JPA/3. API 개발 고급 - 지연 로딩과 조회 성능 최적화.md",
     "Spring/스프링부트와 JPA/Users/navill/Documents/Obsidian Vault/Pasted image 20231226004540.png",
@@ -163,13 +165,10 @@
     "README.md",
     "aws/AWS 인터넷 연결.md",
     "Spring/스프링 핵심 원리/7. 의존관계 자동주입.md",
-    "Spring/JPA/5. 데이터 접근 기술 - JPA.md",
     "Spring/컴포넌트 스캔.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/4. 엔티티 매핑.md",
-    "Spring/자바 ORM 표준 JPA 프로그래밍/3. 영속성 관리.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/7. 고급 매핑.md",
     "Spring/자바 ORM 표준 JPA 프로그래밍/9. 값 타입.md",
-    "Spring/JPA/3. 데이터 접근 기술 - 테스트.md",
     "Spring/Singleton.md",
     "Spring/Spring boot.md",
     "Spring/Spring 회원가입.md",
