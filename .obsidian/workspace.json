@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/스프링 핵심 원리/7. 의존관계 자동주입.md",
+                "file": "Spring/JPA/커넥션풀과 데이터소스.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "threadlo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링 핵심 원리/7. 의존관계 자동주입.md",
+                "file": "Spring/JPA/커넥션풀과 데이터소스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/스프링 핵심 원리/7. 의존관계 자동주입.md",
+                "file": "Spring/JPA/커넥션풀과 데이터소스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링 핵심 원리/7. 의존관계 자동주입.md"
+                "file": "Spring/JPA/커넥션풀과 데이터소스.md"
               }
             }
           }
@@ -148,8 +149,8 @@
   },
   "active": "5e25e7db4c68c8fd",
   "lastOpenFiles": [
-    "Spring/스프링 핵심 원리/8. 빈 생명주기 콜백.md",
     "Spring/스프링 핵심 원리/7. 의존관계 자동주입.md",
+    "Spring/스프링 핵심 원리/8. 빈 생명주기 콜백.md",
     "Spring/스프링 데이터 JPA/4. 쿼리 메소드 기능.md",
     "Spring/스프링 데이터 JPA/3. 공통 인페이스 기능.md",
     "Spring/스프링 데이터 JPA/7. 나머지 기능들.md",
